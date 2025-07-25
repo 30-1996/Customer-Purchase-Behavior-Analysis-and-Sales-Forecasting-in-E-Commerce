@@ -45,10 +45,10 @@ Models were evaluated using:
 |------------------------ |----------|
 | Logistic Regression     |   0.87   |
 | Gradient Boosting       | **0.89** |
-| Random Forest           |   0.83   |
-| SVM                     |  0.84    |
+| Random Forest           | **0.89** |
+| SVM                     |  0.88    |
 
-> 📌 *Gradient Boosting showed the best overall performance in terms of F1 Score.*
+> 📌 *Gradient Boosting and Random Forest showed the best overall performance in terms of F1 Score.*
 
 ## 📁 Project Structure
 
