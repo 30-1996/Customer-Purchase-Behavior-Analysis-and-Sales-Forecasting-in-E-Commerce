@@ -1,10 +1,10 @@
-#📊 Online Shoppers Intention Dataset
-This dataset contains information about user behavior on an e-commerce website during a specific session. The goal is to predict whether a user will generate revenue (i.e., make a purchase) based on various features related to their browsing behavior.
+📊 Online Shoppers Intention Dataset.
+  This dataset contains information about user behavior on an e-commerce website during a specific session. The goal is to predict whether a user will generate revenue (i.e., make a purchase) based on various features related to their browsing behavior.
 
 DATASET:-
-Source:- UCI Machine Learning Repository
-Instance:- 12330
-🧾 Main Features:-
+A.Source:- UCI Machine Learning Repository
+B.Instance:- 12330
+C. Main Features:-
 Administrative, Informational, ProductRelated: Number of pages visited in each category.
 
 Administrative_Duration, Informational_Duration, ProductRelated_Duration: Total time spent on those pages.
